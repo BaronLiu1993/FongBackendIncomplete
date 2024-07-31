@@ -1,0 +1,2 @@
+Incomplete backend written in Express JS. I realised that I needed to switch backend technologies because originally I wanted the flexibility of express JS and JavaScript, but I realised for entreprise level applications
+I need a separate framework that has static typing and also because I struggled with managing + organizing all of my services. I am also more familiar with springboot. I also realised I need to switch to implementing microservice architecture instead of a monolithic architecture for greater scalability on the backend. 
